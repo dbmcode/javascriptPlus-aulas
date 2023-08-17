@@ -1,5 +1,5 @@
 ## Treinamento Javascript Plus
 
-##### Módulo - decalrando varáveis
+##### Módulo - declarando varáveis
 
 Neste módulo vamos entender como funciona a criacão de variáveis.
