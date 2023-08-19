@@ -3,9 +3,11 @@
 /*
 String - OK
 Number
-Bolean
+Boolean
 Null
 Undefined
 */
 
 //NUMBER
+const numero = 5 + 5;
+console.log(numero);
